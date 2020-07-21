@@ -1,1 +1,9 @@
-test.csv
+plot_data/test.csv
+plot_data/non-lockdown.csv
+plot_data/pre-lockdown.csv
+plot_data/lockdown.csv
+plot_data/post-lockdown.csv
+plot_data/non-lockdown-hetero.csv
+plot_data/pre-lockdown-hetero.csv
+plot_data/lockdown-hetero.csv
+plot_data/post-lockdown-hetero.csv

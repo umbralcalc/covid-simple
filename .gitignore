@@ -7,3 +7,5 @@ plot_data/non-lockdown-hetero.csv
 plot_data/pre-lockdown-hetero.csv
 plot_data/lockdown-hetero.csv
 plot_data/post-lockdown-hetero.csv
+plot_data/lockdown-scenario.csv
+plot_data/lockdown-scenario-hetero.csv

@@ -1,11 +1,15 @@
 plot_data/test.csv
 plot_data/non-lockdown.csv
 plot_data/pre-lockdown.csv
-plot_data/lockdown.csv
+plot_data/first-lockdown.csv
+plot_data/second-lockdown.csv
+plot_data/third-lockdown.csv
 plot_data/post-lockdown.csv
 plot_data/non-lockdown-hetero.csv
 plot_data/pre-lockdown-hetero.csv
-plot_data/lockdown-hetero.csv
+plot_data/first-lockdown-hetero.csv
+plot_data/second-lockdown-hetero.csv
+plot_data/third-lockdown-hetero.csv
 plot_data/post-lockdown-hetero.csv
 plot_data/lockdown-scenario.csv
 plot_data/lockdown-scenario-hetero.csv

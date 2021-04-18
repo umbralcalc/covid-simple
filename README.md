@@ -6,4 +6,12 @@ A very simple stochastic simulation for COVID-19 transmission based on [Anderson
 
 This software has also been used to inform a Royal Society rapid review publication on estimating the basic reproduction number. This report can be found here: [https://royalsociety.org/news/2020/09/set-c-covid-r-rate/](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/).
 
+---
+
+### Getting started
+
+To fork, simply type into the terminal:
+
+> git clone https://github.com/umbralcalc/covid-simple.git 
+
 

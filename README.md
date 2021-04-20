@@ -1,6 +1,6 @@
 ### Simple COVID-19 simulation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4680055.svg)](https://doi.org/10.5281/zenodo.4680055)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4703798.svg)](https://doi.org/10.5281/zenodo.4703798)
 
 A very simple stochastic simulation for COVID-19 transmission based on [Anderson et al. (2020)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30567-5/fulltext).
 
